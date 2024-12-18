@@ -572,7 +572,7 @@ public class Owner_PelangganInput extends javax.swing.JFrame {
                 btn_hapusActionPerformed(evt);
             }
         });
-        Mid.add(btn_hapus, new org.netbeans.lib.awtextra.AbsoluteConstraints(140, 370, -1, -1));
+        Mid.add(btn_hapus, new org.netbeans.lib.awtextra.AbsoluteConstraints(140, 377, -1, -1));
 
         btn_kembali.setBackground(new java.awt.Color(102, 255, 0));
         btn_kembali.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
